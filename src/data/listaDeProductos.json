@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung S22 Ultra",
+    "description": "El equipo con mas potencia del mercado",
+    "price": 300000,
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-phone-de9d0.appspot.com/o/s22_ultra_300.png?alt=media&token=870ca4f5-5c3a-4e90-b54b-54eabf587ddd",
+    "stock": 101,
+    "code": 3
+  },
+  {
+    "id": 2,
+    "title": "Motorola Edge 20 Pro",
+    "description": "Lo mejor del marcado, su bateria dura hasta 72hs",
+    "price": 180000,
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-phone-de9d0.appspot.com/o/moto_edge20_pro_300.png?alt=media&token=631ca398-f869-44b8-838b-8217501e3adb",
+    "stock": 201,
+    "code": 5
+  }
+]
